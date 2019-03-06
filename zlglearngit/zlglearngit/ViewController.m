@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"改变点什么");
     
-    NSString *str = @"我是一个OC字符串"
+    NSString *str = @"我是一个OC字符串";
 }
 
 
